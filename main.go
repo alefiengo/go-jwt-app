@@ -4,14 +4,14 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/controller"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/helper"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/model"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/repository"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/router"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/service"
+	"github.com/alefiengo/go-jwt-app/controller"
+	"github.com/alefiengo/go-jwt-app/helper"
+	"github.com/alefiengo/go-jwt-app/model"
+	"github.com/alefiengo/go-jwt-app/repository"
+	"github.com/alefiengo/go-jwt-app/router"
+	"github.com/alefiengo/go-jwt-app/service"
 
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/config"
+	"github.com/alefiengo/go-jwt-app/config"
 	"github.com/go-playground/validator/v10"
 )
 

@@ -3,9 +3,9 @@ package router
 import (
 	"net/http"
 
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/controller"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/middleware"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/repository"
+	"github.com/alefiengo/go-jwt-app/controller"
+	"github.com/alefiengo/go-jwt-app/middleware"
+	"github.com/alefiengo/go-jwt-app/repository"
 
 	"github.com/gin-gonic/gin"
 )

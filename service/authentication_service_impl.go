@@ -3,12 +3,12 @@ package service
 import (
 	"errors"
 
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/config"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/data/request"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/helper"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/model"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/repository"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/utils"
+	"github.com/alefiengo/go-jwt-app/config"
+	"github.com/alefiengo/go-jwt-app/data/request"
+	"github.com/alefiengo/go-jwt-app/helper"
+	"github.com/alefiengo/go-jwt-app/model"
+	"github.com/alefiengo/go-jwt-app/repository"
+	"github.com/alefiengo/go-jwt-app/utils"
 
 	"github.com/go-playground/validator/v10"
 )

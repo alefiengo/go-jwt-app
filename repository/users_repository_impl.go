@@ -3,9 +3,9 @@ package repository
 import (
 	"errors"
 
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/data/request"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/helper"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/model"
+	"github.com/alefiengo/go-jwt-app/data/request"
+	"github.com/alefiengo/go-jwt-app/helper"
+	"github.com/alefiengo/go-jwt-app/model"
 
 	"gorm.io/gorm"
 )

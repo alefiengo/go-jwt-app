@@ -3,10 +3,10 @@ package controller
 import (
 	"net/http"
 
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/data/request"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/data/response"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/helper"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/service"
+	"github.com/alefiengo/go-jwt-app/data/request"
+	"github.com/alefiengo/go-jwt-app/data/response"
+	"github.com/alefiengo/go-jwt-app/helper"
+	"github.com/alefiengo/go-jwt-app/service"
 
 	"github.com/gin-gonic/gin"
 )

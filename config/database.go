@@ -3,7 +3,7 @@ package config
 import (
 	"fmt"
 
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/helper"
+	"github.com/alefiengo/go-jwt-app/helper"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

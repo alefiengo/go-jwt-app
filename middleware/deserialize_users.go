@@ -6,10 +6,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/config"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/helper"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/repository"
-	"github.com/alefiengo/go-jwt-app/go-jwt-app/utils"
+	"github.com/alefiengo/go-jwt-app/config"
+	"github.com/alefiengo/go-jwt-app/helper"
+	"github.com/alefiengo/go-jwt-app/repository"
+	"github.com/alefiengo/go-jwt-app/utils"
 
 	"github.com/gin-gonic/gin"
 )

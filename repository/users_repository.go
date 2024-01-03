@@ -1,6 +1,6 @@
 package repository
 
-import "github.com/alefiengo/go-jwt-app/go-jwt-app/model"
+import "github.com/alefiengo/go-jwt-app/model"
 
 type UsersRepository interface {
 	Save(users model.Users)
